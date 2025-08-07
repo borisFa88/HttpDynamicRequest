@@ -10,7 +10,7 @@ import rest.mainServlet.ServletReader;
 
 
 @SpringBootApplication
-@ComponentScan(basePackages = {"rest.controllers"})
+@ComponentScan(basePackages = {"rest"})
 public class Application {
 
 
